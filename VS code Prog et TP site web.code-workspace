@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Desktop/Tp/TP3"
+		},
+		{
+			"path": "../Desktop/Tp/TP4"
+		},
+		{
+			"path": "TD programmation"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TP3"
+	}
+}
